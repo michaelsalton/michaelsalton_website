@@ -8,21 +8,21 @@ import {
   SparklesIcon,
 } from '@heroicons/react/outline';
 
-import GithubIcon from '../components/Icon/GithubIcon';
-import InstagramIcon from '../components/Icon/InstagramIcon';
-import LinkedInIcon from '../components/Icon/LinkedInIcon';
-import YouTubeIcon from '../components/Icon/YouTubeIcon';
-import TikTokIcon from '../components/Icon/TikTokIcon';
-import heroImage from '../images/header-background.webp';
-import lambda from '../images/portfolio/lambda.png';
-import machina from '../images/portfolio/machina.png';
-import link from '../images/portfolio/link.webp';
+import bezier from '../images/portfolio/bezier.png';
+import car from '../images/portfolio/car.png';
 import dino from '../images/portfolio/dinos.png';
+import GithubIcon from '../components/Icon/GithubIcon';
+import heroImage from '../images/header-background.webp';
+import InstagramIcon from '../components/Icon/InstagramIcon';
+import lambda from '../images/portfolio/lambda.png';
+import LinkedInIcon from '../components/Icon/LinkedInIcon';
+import link from '../images/portfolio/link.webp';
+import machina from '../images/portfolio/machina.png';
 import nav from '../images/portfolio/nav.png';
 import nordic from '../images/portfolio/nordic.webp';
-import car from '../images/portfolio/car.png';
-import bezier from '../images/portfolio/bezier.png';
 import profilepic from '../images/profilepic.png';
+import TikTokIcon from '../components/Icon/TikTokIcon';
+import YouTubeIcon from '../components/Icon/YouTubeIcon';
 import {
   About,
   ContactSection,
